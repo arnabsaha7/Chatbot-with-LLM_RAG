@@ -91,5 +91,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com].
+For any questions or inquiries, please contact [Email](arnabsaha9786@gmail.com).
 
