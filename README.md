@@ -1,4 +1,4 @@
-# Streamlit Chatbot with OpenAI, FAISS, and Langchain
+# Streamlit Chatbot with OpenAI, FAISS, and Langchain 🦜️🔗
 
 This repository contains a Streamlit application for a chatbot that utilizes OpenAI's language model, FAISS for document retrieval, and Langchain for managing conversation chains. The chatbot engages in conversations and retrieves relevant documents based on the user's input.
 
@@ -81,9 +81,9 @@ This repository contains a Streamlit application for a chatbot that utilizes Ope
 ## Acknowledgements
 
 - [OpenAI](https://www.openai.com/)
-- [FAISS](https://github.com/facebookresearch/faiss)
+- [FAISS](https://github.com/facebookresearch/faiss.git)
 - [Streamlit](https://www.streamlit.io/)
-- [Langchain](https://github.com/hwchase17/langchain)
+- [Langchain](https://github.com/langchain-ai/langchain.git)
 
 ## Contributing
 
